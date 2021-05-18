@@ -1,0 +1,15 @@
+{
+  "name": "generator-learnjsru",
+  "version": "1.0.0",
+  "description": "Yeoman generator for learning on javascript.info",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seryiza/generator-learnjsru.git"
+  },
+  "author": "Sergey Zaborovsky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Seryiza/generator-learnjsru/issues"
+  },
+  "homepage": "https://github.com/Seryiza/generator-learnjsru#readme"
+}
