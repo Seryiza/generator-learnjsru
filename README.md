@@ -6,7 +6,7 @@ Yeoman generator for learning on learn.javascript.ru / javascript.info
 
 ## How to use
 ```bash
-npm install -g yeoman generator-learnjsru
+npm install -g yo generator-learnjsru
 
 # Generate simple page
 yo learnjsru my-cool-project
