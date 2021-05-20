@@ -2,10 +2,15 @@
   "name": "generator-learnjsru",
   "version": "1.0.0",
   "description": "Yeoman generator for learning on javascript.info",
-  "keywords": ["yeoman-generator"],
+  "keywords": [
+    "yeoman-generator"
+  ],
   "files": [
     "generators"
   ],
+  "scripts": {
+    "test": "jest"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Seryiza/generator-learnjsru.git"
@@ -18,5 +23,9 @@
   "homepage": "https://github.com/Seryiza/generator-learnjsru#readme",
   "dependencies": {
     "yeoman-generator": "^5.2.0"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "yeoman-test": "^6.1.0"
   }
 }
